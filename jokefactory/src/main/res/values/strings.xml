@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">jokefactory</string>
+    <string name="noJoke">Sorry , We can\'t get  joke now !!</string>
+
+    <!-- Key's Strings Shouldn't be Translatable -->
+    <string name="jokeEnvelope" translatable="false">jokeEnvelope</string>
+</resources>
